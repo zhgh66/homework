@@ -1,0 +1,315 @@
+{
+  "run_id": "20251022_081604",
+  "llm_name": null,
+  "n_samples": 9,
+  "n_queries_per_sample": null,
+  "query_multiplier": 1.0,
+  "query_mode": null,
+  "seed": null,
+  "timestamp": "2025-10-22T08:16:04.582267",
+  "metadata": {
+    "grid_size": 3,
+    "max_blocks": 1,
+    "max_height": 3,
+    "n_observation_sets": 9,
+    "generated_at": "2025-10-22T16:16:04.569393"
+  },
+  "statistics": {},
+  "token_usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "avg_tokens_per_sample": 0.0
+  },
+  "cost": {
+    "total_cost": 0.0,
+    "avg_cost_per_sample": 0.0,
+    "avg_cost_per_query": 0.0
+  },
+  "error_summary": {
+    "total_errors": 0,
+    "error_types": {},
+    "error_rate": 0.0
+  },
+  "per_sample_results": [
+    {
+      "observation_set_id": "g3_h3_b1_001",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "100000000",
+        "100000000\n100000000",
+        "100000000\n100000000\n100000000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_002",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "010000000",
+        "010000000\n010000000",
+        "010000000\n010000000\n010000000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_003",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "001000000",
+        "001000000\n001000000",
+        "001000000\n001000000\n001000000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_004",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000100000",
+        "000100000\n000100000",
+        "000100000\n000100000\n000100000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_005",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000010000",
+        "000010000\n000010000",
+        "000010000\n000010000\n000010000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_006",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000001000",
+        "000001000\n000001000",
+        "000001000\n000001000\n000001000"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_007",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000000100",
+        "000000100\n000000100",
+        "000000100\n000000100\n000000100"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_008",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000000010",
+        "000000010\n000000010",
+        "000000010\n000000010\n000000010"
+      ],
+      "all_hypotheses": []
+    },
+    {
+      "observation_set_id": "g3_h3_b1_009",
+      "n_observations": 1,
+      "n_ground_truths": 3,
+      "n_queries": 3,
+      "n_valid": 0,
+      "n_unique": 0,
+      "n_recovered_gts": 0,
+      "parse_success_count": 0,
+      "parse_success_rate": 0.0,
+      "valid_rate": 0.0,
+      "novelty_rate": 0.0,
+      "recovery_rate": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "cost": 0.0,
+      "errors": [],
+      "error_summary": {
+        "total_errors": 0,
+        "error_types": {}
+      },
+      "unique_structures": [
+        "000000001",
+        "000000001\n000000001",
+        "000000001\n000000001\n000000001"
+      ],
+      "all_hypotheses": []
+    }
+  ]
+}
