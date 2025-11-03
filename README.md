@@ -1,6 +1,18 @@
 # LLM Symbolic Reasoning Benchmarks: Baseline vs. Optimized
 
+Zheng yi    CEG25098
+
+Zhou Guhan  CEG25100
+
 ## Overview
+
+Division of Work.
+
+Zheng Yi: Boolean & Causal optimization; methods/experiments writing.
+
+Zhou Guhan: 3D optimization; repository organization & scripts.
+
+---
 
 This repository contains benchmark scripts for evaluating the performance of Large Language Models (LLMs) on symbolic reasoning tasks. For each task, two versions are provided:
 
@@ -102,6 +114,7 @@ This task tests the ability to generate a layered 3D structure based on constrai
 ## Overall Recommendation
 
 The **optimized scripts** should be used as the default for any serious evaluation or research. They provide more accurate, diverse, and reliable results, and their enhanced logging is essential for analysis. The specific optimization strategy (self-consistency vs. dynamic prompting vs. strict formatting) should be chosen based on the task requirements and cost constraints.
+
 
 ## Citation
 ```bibtex
