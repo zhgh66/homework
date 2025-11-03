@@ -102,3 +102,12 @@ This task tests the ability to generate a layered 3D structure based on constrai
 ## Overall Recommendation
 
 The **optimized scripts** should be used as the default for any serious evaluation or research. They provide more accurate, diverse, and reliable results, and their enhanced logging is essential for analysis. The specific optimization strategy (self-consistency vs. dynamic prompting vs. strict formatting) should be chosen based on the task requirements and cost constraints.
+
+## Citation
+```bibtex
+@article{chen2025hypospace,
+  title={HypoSpace:Evaluating LLM Creativity as Set-Valued Hypothesis Generators under Underdetermination},
+  author={Chen, Tingting and Lin, Beibei and Yuan, Zifeng and Zou, Qiran and He, Hongyu and Zhang, Wei-Nan},
+  journal={arXiv preprint arXiv:2510.15614},
+  year={2025}
+}
