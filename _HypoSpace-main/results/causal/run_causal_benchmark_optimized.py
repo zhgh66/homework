@@ -1105,3 +1105,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+bibtex_entry = """
+@article{chen2025hypospace,
+  title={HypoSpace:Evaluating LLM Creativity as Set-Valued Hypothesis Generators under Underdetermination},
+  author={Chen, Tingting and Lin, Beibei and Yuan, Zifeng and Zou, Qiran and He, Hongyu and Zhang, Wei-Nan},
+  journal={arXiv preprint arXiv:2510.15614},
+  year={2025}
+}
+"""
